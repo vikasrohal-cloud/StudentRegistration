@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
-
-using System;
+﻿using System;
 
 namespace StudentRegistration
 {
@@ -11,7 +8,7 @@ namespace StudentRegistration
         {
             Console.WriteLine("----- Student Registration Form -----");
 
-            // Get student details from the user
+    
             Console.Write("Enter student's name: ");
             string name = Console.ReadLine();
 
@@ -21,7 +18,6 @@ namespace StudentRegistration
             Console.Write("Enter student's course: ");
             string course = Console.ReadLine();
 
-            // Display the collected information
             Console.WriteLine("\n--- Student Details ---");
             Console.WriteLine("Name: " + name);
             Console.WriteLine("Age: " + age);
