@@ -1,0 +1,15 @@
+C:\Users\vikasrohal\Desktop\StudentRegistration\bin\Debug\net7.0\StudentRegistration.exe
+C:\Users\vikasrohal\Desktop\StudentRegistration\bin\Debug\net7.0\StudentRegistration.deps.json
+C:\Users\vikasrohal\Desktop\StudentRegistration\bin\Debug\net7.0\StudentRegistration.runtimeconfig.json
+C:\Users\vikasrohal\Desktop\StudentRegistration\bin\Debug\net7.0\StudentRegistration.dll
+C:\Users\vikasrohal\Desktop\StudentRegistration\bin\Debug\net7.0\StudentRegistration.pdb
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.AssemblyReference.cache
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\StudentRegistration.AssemblyInfo.cs
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\StudentRegistration.dll
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\refint\StudentRegistration.dll
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\StudentRegistration.pdb
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\StudentRegistration.genruntimeconfig.cache
+C:\Users\vikasrohal\Desktop\StudentRegistration\obj\Debug\net7.0\ref\StudentRegistration.dll
